@@ -2,6 +2,9 @@
 
 I'm a researcher specializing in the evolution of cooperation and multi-agent simulation, with a broader interest in complex systems and social dynamics.
 
+You can find my publication list on [Google Scholar](https://scholar.google.com/citations?user=sBzlraIAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Masaaki-Inaba-3).
+
+
 <!--
 **mas178/mas178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
